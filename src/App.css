@@ -1,0 +1,29 @@
+tr > td > img {
+  height: 50px;
+  width: 50px;
+}
+
+h1 {
+  text-align: center;
+  color:white;
+}
+
+html {
+  background-color: black;
+}
+
+table {
+  width: 100%;
+  background-color: rgb(37, 37, 37);
+  color: rgb(194, 194, 194);
+  border-collapse: collapse;
+  border: 1px solid white;
+}
+
+th {
+  border-bottom: 1px white solid;
+}
+
+td {
+  text-align: center;
+}
